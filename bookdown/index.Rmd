@@ -1,0 +1,12 @@
+---
+title: "Essentials for Developers"
+author: "Jonathan Buchner"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+---
+# Introduction 

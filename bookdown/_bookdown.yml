@@ -1,0 +1,47 @@
+rmd_files: ["index.Rmd",
+#Pre
+"./src/pre/intro.md",
+# Introduction
+"./src/introduction/summary-introduction.md", 
+  "./src/introduction/environment.md",
+  "./src/introduction/commandline.md",
+  "./src/introduction/powershell.md",
+  "./src/introduction/powershell-profile.md",
+  "./src/introduction/version-control.md",
+  "./src/introduction/git.md",
+  "./src/introduction/github.md",
+  "./src/introduction/markdown.md",
+  "./src/introduction/github-profile.md",
+  "./src/introduction/learn-to-code.md",
+  "./src/introduction/coding-typing-practice.md",
+
+# Programming
+"./src/programming/summary-programming.md",
+  "./src/programming/scratch.md",
+  "./src/programming/uml.md",
+  "./src/programming/csharp.md",  
+  "./src/programming/visualstudio.md",
+  "./src/programming/debugging.md",  
+  "./src/programming/dotnet.md",
+
+# Meadows
+"./src/meadows/summary-meadows.md",
+
+# Data Structures
+"./src/datastructures/summary-datastructures.md",
+  "./src/datastructures/c.md",
+
+# Discrete Math
+"./src/discretemath/summary-discretemath.md",
+
+# # Websites
+"./src/websites/summary-websites.md",
+  "./src/websites/html.md",
+  "./src/websites/css.md",
+  "./src/websites/grid.md",
+  "./src/websites/transitions.md",
+  "./src/websites/transforms.md",
+  "./src/websites/javascript.md",
+  "./src/websites/listeners.md",
+  "./src/websites/summary-websites.md",
+]
